@@ -1,22 +1,21 @@
 # **s21_containers**
 
-Реализация библиотек s21_containers.h и  s21_containersplus.h.
+Implementation of libraries s21_containers.h & s21_containersplus.h.
 
 ![s21_containers](misc/images/s21_containers.png)
 
-
 ### **Introduction**
 
-В рамках нашего совместного проекта мы успешно создали собственную библиотеку, включающую в себя основные контейнерные классы C++:
-- `vector` (вектор);
-- `array` (массив);
-- `list` (список);
-- `queue` (очередь);
-- `stack` (стек);
-- `map` (словарь);
-- `set` (множество).
+As part of our collaborative project, we have successfully created our own library that includes the core C++ container classes:
+- `vector`;
+- `array`;
+- `list`;
+- `queue`;
+- `stack`;
+- `map`;
+- `set`.
 
-Наша реализация предоставляет полный набор стандартных методов и атрибутов, необходимых для работы с элементами, проверки заполненности контейнера и итерирования. Более того, мы решили дополнительное задание, включающее в себя реализацию нескольких менее распространенных, но тем не менее важных деталей контейнерных классов из стандартной библиотеки C++. Весь проект выполнен совместными усилиями.
+Our implementation provides a complete set of standard methods and attributes needed for element handling, container occupancy checking, and iteration. Moreover, we solved an additional task involving the implementation of several less common, but nevertheless important details of container classes from the C++ standard library. The whole project is a joint effort.
 
 ---
 - letishal / [yourdaddynka](https://github.com/yourdaddynka) - `vector`, `array`.
